@@ -2,7 +2,7 @@
 
 The purpose of the app is to provide a simple, focused break timer that encourages users to take short pauses throughout their day. It helps promote mindfulness, productivity, and well-being by reminding users to step away from their tasks periodically.
 
-URL : takeapauseforaminute.netlify.app/
+URL :[ takeapauseforaminute.netlify.app/](https://takeapauseforaminute.netlify.app/)
 
 
 ![pause](https://github.com/user-attachments/assets/7550ca2d-853a-4d97-ab98-70b4b993746e)
